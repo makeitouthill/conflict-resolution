@@ -1,2 +1,2 @@
 # conflict-resolution
-Repo on testing conflict resolution during merge conflicts
+Repo to test conflict resolution during merge conflicts
